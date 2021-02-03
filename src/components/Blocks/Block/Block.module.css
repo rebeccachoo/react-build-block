@@ -1,0 +1,56 @@
+.Black {
+	width: 20%;
+	height: 20px;
+	background-color: black;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+.Red {
+	width: 20%;
+	height: 20px;
+	background-color: #c17767;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+.Blue {
+	width: 20%;
+	height: 20px;
+	background-color: #6d98ba;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+.Purple {
+	width: 20%;
+	height: 20px;
+	background-color: purple;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+.Pink {
+	width: 20%;
+	height: 20px;
+	background-color: pink;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+.Green {
+	width: 20%;
+	height: 20px;
+	background-color: green;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+.Grey {
+	width: 20%;
+	height: 20px;
+	background-color: grey;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+.Yellow {
+	width: 20%;
+	height: 20px;
+	background-color: #f1f0cc;
+	margin-top: 10px;
+	border-radius: 6px;
+}

@@ -1,0 +1,28 @@
+.ButtonContainer {
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 10px;
+}
+.Less {
+	border: 1px #102b3f solid;
+	color: #c17767;
+	width: 100px;
+	padding: 10px;
+	border-radius: 5px;
+	font-weight: bold;
+	cursor: pointer;
+}
+.More {
+	border: 1px #102b3f solid;
+	width: 100px;
+	padding: 10px;
+	color: #062726;
+	margin-left: 10px;
+	border-radius: 5px;
+	font-weight: bold;
+	cursor: pointer;
+}
+.Label {
+	width: 100px;
+	text-align: left;
+}
