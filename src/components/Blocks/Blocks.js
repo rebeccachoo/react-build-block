@@ -8,9 +8,7 @@ const blocks = (props) => {
 			<Block type="block-top-bottom" />
 			{Object.entries(props.blockState).map(([key, value]) => {
 				var rows = [];
-
 				for (let j = 0; j < parseInt(value); j++) {
-					// console.log("=== value " + value + "=== j " + j);
 					rows.push(<Block type={key} key={key + j} />);
 				}
 				return rows;

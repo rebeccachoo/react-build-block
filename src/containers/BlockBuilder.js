@@ -16,7 +16,11 @@ class BlockBuilder extends Component {
 	addBlockHandler = (type) => {
 		const oldCount = this.state[type];
 		let newCount = oldCount + 1;
-		this.setState({ [type]: newCount });
+		let totalOfState = 0;
+		Object.entries(this.state).map(([key, value]) => {
+			totalOfState += parseInt(value);
+		});
+		if (totalOfState < 11) this.setState({ [type]: newCount });
 	};
 	removeBlockHandler = (type) => {
 		const oldCount = this.state[type];
