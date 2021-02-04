@@ -2,6 +2,7 @@
 
 You can build blocks and there are various colors of blocks you can choose.
 
+<br />
 
 | Feature | Description |
 | -----: | :----------- |
