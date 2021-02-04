@@ -1,13 +1,12 @@
-# React App - Build A Block
+# React App - Build a Block
 
 You can build blocks and there are various colors of blocks you can choose.
 
 
 | Feature | Description |
 | -----: | :----------- |
-|  Initial state | <img src="https://github.com/rebeccachoo/react-build-block/blob/main/block-builder-screen-shot.png?raw=true"  width="400">|
-|  Good word | <img src="https://github.com/rebeccachoo/react-good-bad-word/blob/main/good2.png?raw=true"  width="400">|
-|  Bad word | <img src="https://github.com/rebeccachoo/react-good-bad-word/blob/main/good3.png?raw=true"  width="400">|
+|  Initial state | <img src="https://github.com/rebeccachoo/react-build-block/blob/main/block-initial.png?raw=true"  width="400">|
+|  Blockes inserted | <img src="https://github.com/rebeccachoo/react-build-block/blob/main/block-builder-screen-shot.png?raw=true"  width="400">| 
 
 
 
