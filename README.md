@@ -1,6 +1,6 @@
 # React App - Build a Block
 
-You can build blocks and there are various colors of blocks you can choose.
+You can build blocks and there are various colors of blocks you can choose. You can modify the components to act differently.
 
 <br />
 
